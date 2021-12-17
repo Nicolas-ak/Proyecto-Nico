@@ -1,0 +1,199 @@
+.contenedor{
+
+   display: inline-block;
+   
+    
+}
+.texto{
+    position: absolute;
+    width: 1000px;
+    height: 204px;
+    left: 280px;
+    top: 200px;
+    
+    font-family: Comfortaa;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 78px;
+    line-height: 87px;
+    text-align: center;
+    
+    color: white;
+    background: rgba(255, 2, 2, 0.752);
+    
+    
+    
+}
+.texto2{
+    position: absolute;
+width: 1000px;
+height: 204px;
+left: 280px;
+top: 300px;
+
+font-family: Comfortaa;
+font-style: normal;
+font-weight: normal;
+font-size: 78px;
+line-height: 87px;
+text-align: center;
+
+color:white;
+
+
+}
+
+ .pie-de-pagina{
+    position: absolute;
+width: 1495px;
+height: 80px;
+
+top: 635px;
+background-color: rgb(231, 219, 219); 
+
+
+}
+.contacto{
+    background-color: red;
+    color: white;
+    font-family: Comfortaa;
+    position: absolute;
+    left: 150px;
+    top: 25px;
+    font-size: 30px;
+    
+    
+
+}
+
+.personajes{
+    background-color: red;
+    color: white;
+    font-family: Comfortaa;
+    position: absolute;
+    left: 500px;
+    top: 25px;
+    font-size: 30px;
+}
+
+.enemigos{
+    background-color: red;
+    color: white;
+    font-family: Comfortaa;
+    position: absolute;
+    left: 900px;
+    top: 25px;
+    font-size: 30px;
+}
+
+.ubicaciones{
+    background-color: red;
+    color: white;
+    font-family: Comfortaa;
+    position: absolute;
+    left: 1260px;
+    top: 25px;
+    font-size: 30px;
+}
+.contacto:hover{
+    background-color: black;
+}
+.personajes:hover{
+    background-color: black;
+}
+.enemigos:hover{
+    background-color: black;
+}
+.ubicaciones:hover{
+    background-color: black;
+}
+.caja{
+    background-color: red;
+    width: 1495px;
+    height: 65px;
+}
+.link{
+    color: white;
+    font-family: Comfortaa;
+    position: absolute;
+    left: 1260px;
+    top: 5px;
+    font-size: 40px;
+    color: white;
+    font-family: Comfortaa;
+    position: absolute;
+    left: 220px;
+    top: 5px;
+    font-size: 40px;
+
+}
+.link2{
+    color: white;
+    font-family: Comfortaa;
+    position: absolute;
+    left: 750px;
+    top: 5px;
+    font-size: 40px;
+
+}
+.link3{
+    color: white;
+    font-family: Comfortaa;
+    position: absolute;
+    left: 1260px;
+    top: 5px;
+    font-size: 40px;
+}
+.link:hover{
+    background-color: black;
+}
+.link2:hover{
+    background-color: black;
+}
+.link3:hover{
+    background-color: black;
+}
+.escrito{
+    position: absolute;
+    width: 1000px;
+    height: 204px;
+    left: 280px;
+    top: 200px;
+    
+    font-family: Comfortaa;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 50px;
+    line-height: 87px;
+    text-align: center;
+    
+    color: white;
+    background: rgba(255, 2, 2, 0.752);
+}
+.escrito2{
+    position: absolute;
+width: 1000px;
+height: 204px;
+left: 280px;
+top: 335px;
+
+font-family: Comfortaa;
+font-style: normal;
+font-weight: normal;
+font-size: 50px;
+line-height: 87px;
+text-align: center;
+
+color:white;
+
+
+}
+
+.blur{
+    filter: blur(4px);
+}
+
+.texto-carta{
+    font-size: 12px;
+    font-family: comfortaa;
+}
